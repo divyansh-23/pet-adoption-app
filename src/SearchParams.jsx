@@ -7,6 +7,7 @@ const SearchParams = () => {
           Location
           <input id="location" value={location} placeholder="Location" />
         </label>
+        <button>Submit</button>
       </form>
     </div>
   );
